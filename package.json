@@ -1,0 +1,15 @@
+{
+  "name": "js-parser",
+  "version": "1.0.0",
+  "description": "js parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Eugene Kolomiets",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.0",
+    "puppeteer-core": "^21.5.0"
+  }
+}
